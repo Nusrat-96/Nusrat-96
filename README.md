@@ -4,6 +4,9 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nusrat-96&theme=dark)](https://github.com/Nusrat-96)
 
+### Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=true&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nusrat-jahan-8a011b19b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratadiba88@gmail.com) 
 
@@ -12,7 +15,6 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nusrat-96&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrat-96&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> <br/>
 <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Nusrat-96&theme=dark&hide_border=true"/>
 
-### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=true&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
+
 
 ![snake gif](https://github.com/Nusrat-96/Nusrat-96/blob/output/github-snake-dark.svg)
