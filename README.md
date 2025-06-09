@@ -13,9 +13,6 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Nusrat-96&theme=dark&hide_border=true"/>
 
 ### Top Repositories
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&repo=Bullying_comment_detection_25&theme=dark&hide_border=true&description=A+Machine+Learning+project+to+detect+bullying+comments)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=true&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=true&repo=Laptop_Price_Prediction)](https://github.com/Nusrat-96/Laptop_Price_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=true&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
 
 ![snake gif](https://github.com/Nusrat-96/Nusrat-96/blob/output/github-snake-dark.svg)
