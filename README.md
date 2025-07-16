@@ -19,7 +19,8 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 | **Deployment**      | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)|
 | **IDE**      | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Pycharm](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+![](https://leetcard.jacoblin.cool/NusratJahan96?site=cn)
+
 
 ## 📊 GitHub Stats:
 
