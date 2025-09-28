@@ -6,6 +6,7 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=false&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=false&repo=Laptop_Price_Prediction)]([https://github.com/Nusrat-96/Bullying_comment_detection_25](https://github.com/Nusrat-96/Laptop_Price_Prediction))
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nusrat-jahan-8a011b19b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratadiba88@gmail.com) 
