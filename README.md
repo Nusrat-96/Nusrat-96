@@ -6,10 +6,15 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=false&repo=Bullying_comment_detection_25)](https://github.com/Nusrat-96/Bullying_comment_detection_25)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=false&repo=Laptop_Price_Prediction)]((https://github.com/Nusrat-96/Laptop_Price_Prediction))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nusrat-96&theme=dark&hide_border=false&repo=Laptop_Price_Prediction)](https://github.com/Nusrat-96/Laptop_Price_Prediction)
+
+
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nusrat-jahan-8a011b19b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratadiba88@gmail.com) 
+
+## Leetcode Stats
+![](https://leetcard.jacoblin.cool/NusratJahan96?ext=heatmap)
 
 ## 💻 Tech Stack:
 | Category       | Tools                                                                 |
@@ -19,9 +24,6 @@ I'm Nusrat, graduated with 1st merit position in BSc (Hons) in Information & Com
 | **Data**       | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)|                        |
 | **Deployment**      | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)|
 | **IDE**      | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Pycharm](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |
-
-## Leetcode Stats
-![](https://leetcard.jacoblin.cool/NusratJahan96?ext=heatmap)
 
 
 ## 📊 GitHub Stats:
