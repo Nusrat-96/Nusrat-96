@@ -1,6 +1,6 @@
 # Nusrat Jahan
 ### Data Science Enthusiast
-I’m Nusrat, a 1st-merit BSc (Hons) ICE graduate and former Lecturer, now working as a Data Analyst & Machine Learning Engineer at O'Dell Tech Ltd. I’m passionate about AI, Machine Learning, and Data Science, building hands-on projects that turn complex data into actionable insights and scalable solutions. From data analysis and predictive modeling to deploying ML systems, I enjoy solving real-world problems with data, clean code, and innovative thinking.
+I’m Nusrat, a 1st-merit BSc (Hons) ICE graduate and former Lecturer, now working as a Data Analyst & Machine Learning Engineer at [O'Dell Tech Ltd.](https://odelltech.com/). I’m passionate about AI, Machine Learning, and Data Science, building hands-on projects that turn complex data into actionable insights and scalable solutions. From data analysis and predictive modeling to deploying ML systems, I enjoy solving real-world problems with data, clean code, and innovative thinking.
 
 [![Profile Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nusrat-96&theme=dark&hide_border=false)](https://github.com/Nusrat-96)
 
